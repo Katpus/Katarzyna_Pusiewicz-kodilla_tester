@@ -6,9 +6,8 @@ public class SimpleArray {
         animals[2] = "cow";
         animals[3] = "rabbit";
         animals[4] = "mouse";
-
+        String animal = animals[3];
         int numberOfElements = animals.length;
-
-        System.out.println("Moja tablica ma" "animals.length", "elementów");
+        System.out.println("moja tablica zawiera "+ numberOfElements + " elementów");
     }
 }

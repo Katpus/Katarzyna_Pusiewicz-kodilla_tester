@@ -13,6 +13,6 @@ public class MainExtended {
         System.out.println(height);
         System.out.println(nativeLanguage);
         System.out.println(gooddancer);
-}
+    }
 
 }
