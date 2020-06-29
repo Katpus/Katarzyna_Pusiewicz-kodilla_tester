@@ -14,7 +14,7 @@ public class LeapYear {
         System.out.println(yearCheck(2020));
         System.out.println(yearCheck(2019));
         System.out.println(yearCheck(1954));
-        System.out.println(yearCheck(34));
+        System.out.println(yearCheck(0));
 
     }
 
