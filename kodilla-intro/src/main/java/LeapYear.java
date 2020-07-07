@@ -1,6 +1,5 @@
 public class LeapYear {
     public static void main(String[] args) {
-
 //        int year = 2017;
 //        if (year % 4 == 0) {
 //            System.out.println("Not a Leap Year");
@@ -15,9 +14,7 @@ public class LeapYear {
         System.out.println(yearCheck(2019));
         System.out.println(yearCheck(1954));
         System.out.println(yearCheck(0));
-
     }
-
     public static boolean yearCheck(int year) {
         return ((year % 4 == 0) && (year % 100 != 0) || (year % 400 == 0));
     }
