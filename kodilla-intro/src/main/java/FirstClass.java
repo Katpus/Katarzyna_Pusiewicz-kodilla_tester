@@ -19,6 +19,5 @@ public class FirstClass {
         yellowNotebook.theBestChoice();
         System.out.println(greyNotebook.weight + " " + greyNotebook.price + " " + greyNotebook.year);
         greyNotebook.theBestChoice();
-
     }
 }
